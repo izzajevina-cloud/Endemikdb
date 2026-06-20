@@ -5,3 +5,4 @@
 <img width="738" height="1600" alt="Tampilan favorite" src="https://github.com/user-attachments/assets/fdcea753-38e4-4da1-9326-f359a723e508" />
 <img width="738" height="1600" alt="Deskripsi tanaman" src="https://github.com/user-attachments/assets/ed15bec9-5712-4b47-8f36-e46fa896f4c3" />
 <img width="738" height="1600" alt="Deskripsi hewan" src="https://github.com/user-attachments/assets/47987ee4-2604-4567-8f34-ee446ed21352" />
+
